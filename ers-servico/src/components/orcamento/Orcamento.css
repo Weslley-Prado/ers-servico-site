@@ -1,0 +1,193 @@
+.img-orcamento {
+   width: 100%;
+   height: 500px;
+}
+#wat{
+   width: 165px;
+}
+#cep{
+   
+   border-top: none;
+   border-right: none;
+   border-left: none;
+   border-bottom: 1px solid rgb(0, 0, 0);
+}
+#city{
+   
+   border-top: none;
+   border-right: none;
+   border-left: none;
+   border-bottom: 1px solid rgb(0, 0, 0);
+}
+.Formulario {
+   background-color: #f2f2f2;
+}
+
+.Form2 {
+   padding-top: 10px;
+   max-width: 100%;
+   margin: 0 auto;
+
+}
+
+.Form2 h2 {
+   justify-content: center;
+   align-items: center;
+   margin-left: 55px;
+   text-align: center;
+   font-weight: bold;
+}
+.Form2 h3{
+   padding-top: 10px;
+   font-size: 18px;
+   font-weight: bold;
+}
+p {
+   text-align: center;
+   font-weight: bold;
+   font-size: xx-large;
+}
+
+input[type=submit] {
+   background-color: #0049d1;
+   color: white;
+   padding: 12px 20px;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+   margin-bottom: 10px;
+}
+
+input[type=submit]:hover {
+   background-color: #109404;
+}
+
+.container {
+   border-radius: 5px;
+   background-color: #f2f2f2;
+   padding: 10px;
+   width: 100%;
+}
+
+.inputName {
+   margin-top: 10px;
+   left: 0px;
+   float: left;
+}
+
+.inputName input {
+   width: 350px;
+   margin-left: 80px;
+   margin-right: 20px;
+   border-top: none;
+   border-right: none;
+   border-left: none;
+   border-bottom: 1px solid rgb(0, 0, 0);
+
+}
+.inputName label{
+position: absolute;
+margin-top: 10px;
+margin-left: 20px;
+}
+.inputEmail label{
+   margin-left: 120px;
+}
+
+.inputEmail input {
+   width: 400px;
+   margin-top: 20px;
+   margin-left: 15px;
+   border-top: none;
+   border-right: none;
+   border-left: none;
+   border-bottom: 1px solid rgb(0, 0, 0);
+}
+.inputFone{
+   margin-left:20px;
+   margin-top: 10px;
+   
+}
+#site {
+   width:340px;
+   
+   border-top: none;
+   border-right: none;
+   border-left: none;
+   border-bottom: 1px solid rgb(0, 0, 0);
+}
+#phone1{
+   border-top: none;
+   border-right: none;
+   border-left: none;
+   border-bottom: 1px solid rgb(0, 0, 0);
+}
+#cnpj{
+   width:340px;
+   border-top: none;
+   border-right: none;
+   border-left: none;
+   border-bottom: 1px solid rgb(0, 0, 0);
+}
+.inputFone input{
+   margin-left: 5px;
+   margin-right: 10px;
+}
+
+.Whats{
+   margin-left: 95px;
+}
+.Phone{
+  margin-left: 100px;
+  
+}
+.phoneInput{
+   width: 350px;
+   border-top: none;
+   border-right: none;
+   border-left: none;
+   border-bottom: 1px solid rgb(0, 0, 0);
+
+}
+
+.company{
+   width: 630px;
+   margin-left: 80px;
+   margin-right: 20px;
+
+}
+
+.labelCompany{   
+   margin-top: 10px;
+   
+}
+.send{
+   padding-top: 10px;
+  width: 25%;
+  margin-left: 280px;
+}
+.comp{
+   width: 300px;
+   border-top: none;
+   border-right: none;
+   border-left: none;
+   border-bottom: 1px solid rgb(0, 0, 0);
+
+}
+
+select{
+   padding:4px;
+   width: 250px;
+}
+.quantities{
+   padding-top: 12px;
+   
+}
+
+.quantities input{
+   
+   border-top: none;
+   border-right: none;
+   border-left: none;
+   border-bottom: 1px solid rgb(0, 0, 0);
+}
